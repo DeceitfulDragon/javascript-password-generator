@@ -21,5 +21,5 @@ This repository should show that I can properly create a password generator usin
 - THEN the password is either displayed in an alert or written to the page
 
 ## Deployed Web Page
-You can find the deployed web page for this project [here!](https://deceitfuldragon.github.io/advanced-css-portfolio/)
+You can find the deployed web page for this project [here!](https://deceitfuldragon.github.io/javascript-password-generator/)
 ![Screenshot](./assets/images/screenshot.png "Screenshot")
