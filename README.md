@@ -22,4 +22,4 @@ This repository should show that I can properly create a password generator usin
 
 ## Deployed Web Page
 You can find the deployed web page for this project [here!](https://deceitfuldragon.github.io/javascript-password-generator/)
-![Screenshot](./assets/images/screenshot.png "Screenshot")
+![Screenshot](./assets/screenshot.png "Screenshot")
